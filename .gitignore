@@ -1,0 +1,36 @@
+# ===== NetBeans =====
+/nbproject/private/
+/nbbuild/
+/dist/
+/build/
+/out/
+
+# ===== Java =====
+*.class
+*.log
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE =====
+.idea/
+.vscode/
+
+# ===== Runtime files =====
+hs_err_pid*
+
+# ===== Local configs =====
+*.env
+
+# ===== MySQL =====
+# ako zelis da saljes bazu, NE ignorisi .sql
+# *.sql
+
+# ===== JAR build output =====
+*.jar
+
+# ===== Temp =====
+*.tmp
+*.swp
+
